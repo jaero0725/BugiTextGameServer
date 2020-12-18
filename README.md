@@ -1,0 +1,2 @@
+# BugiTextGameServer
+Server of BugiTextGame
